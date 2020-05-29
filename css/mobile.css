@@ -1,0 +1,16 @@
+@media (max-width: 600px) {
+  .products {
+    display: flex;
+    align-items: center;
+    height: auto;
+  }
+  .product {
+    margin-top: auto;
+  }
+  .main {
+    padding: 4%;
+  }
+  .main h1 {
+    font-size: 30px;
+  }
+}
