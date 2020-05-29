@@ -1,8 +1,10 @@
 **Producto catalog with Paypal Button**
 
-**Main screen**
+**Main screen 1**
 
 ![Main Screen 1](images/sc_main1.png)
+
+**Main screen 2** 
 
 ![Main Screen 2](images/sc_main2.png)
 
